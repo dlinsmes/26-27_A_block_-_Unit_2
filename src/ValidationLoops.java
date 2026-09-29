@@ -103,6 +103,5 @@ public class ValidationLoops {
             word = s.nextLine();
         }
         System.out.println("good job");
-
     }
 }
